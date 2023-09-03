@@ -1,0 +1,6 @@
+2023-09-03 19:32:40,231 +0300 [main] INFO  (StepDefinitions.java:22) - User went to verimix homepage
+2023-09-03 19:32:40,387 +0300 [main] INFO  (StepDefinitions.java:29) - Verimix homepage opened successfully
+2023-09-03 19:32:40,614 +0300 [main] INFO  (StepDefinitions.java:34) - Scrolled to the end of the page
+2023-09-03 19:32:41,030 +0300 [main] INFO  (StepDefinitions.java:39) - Verified that the linkedIn icon could be visible in the footer
+2023-09-03 19:32:42,851 +0300 [main] INFO  (StepDefinitions.java:44) - clicked on linkedin icon
+2023-09-03 19:32:57,057 +0300 [main] INFO  (StepDefinitions.java:53) - Verified that redirected to the correct page

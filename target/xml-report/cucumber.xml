@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="33.448" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Home Page" name="Social Media icons can be used properly" time="32.958">
+<system-out><![CDATA[
+Given User goes to verimix homepage.........................................passed
+Then Verify that the page is opening correctly..............................passed
+And Scrolls to the end of the page..........................................passed
+Then Verify that the linkedIn icon can be visible in the footer.............passed
+And Click on linkedin icon..................................................passed
+Then Verify that redirect to the correct page...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
